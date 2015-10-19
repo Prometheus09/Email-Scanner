@@ -1,0 +1,12 @@
+C:\Users\sfuerbringer\Dropbox\EmailReader\EmailReader\EmailReader\bin\Debug\EmailReader.exe.config
+C:\Users\sfuerbringer\Dropbox\EmailReader\EmailReader\EmailReader\obj\Debug\EmailReader.csprojResolveAssemblyReference.cache
+C:\Users\sfuerbringer\Dropbox\EmailReader\EmailReader\EmailReader\bin\Debug\EmailReader.exe
+C:\Users\sfuerbringer\Dropbox\EmailReader\EmailReader\EmailReader\bin\Debug\EmailReader.pdb
+C:\Users\sfuerbringer\Dropbox\EmailReader\EmailReader\EmailReader\obj\Debug\EmailReader.exe
+C:\Users\sfuerbringer\Dropbox\EmailReader\EmailReader\EmailReader\obj\Debug\EmailReader.pdb
+C:\Users\sfuerbringer_be\Dropbox\EmailReader\EmailReader\EmailReader\bin\Debug\EmailReader.exe.config
+C:\Users\sfuerbringer_be\Dropbox\EmailReader\EmailReader\EmailReader\obj\Debug\EmailReader.exe
+C:\Users\sfuerbringer_be\Dropbox\EmailReader\EmailReader\EmailReader\obj\Debug\EmailReader.pdb
+C:\Users\sfuerbringer_be\Dropbox\EmailReader\EmailReader\EmailReader\bin\Debug\EmailReader.exe
+C:\Users\sfuerbringer_be\Dropbox\EmailReader\EmailReader\EmailReader\bin\Debug\EmailReader.pdb
+C:\Users\sfuerbringer_be\Dropbox\EmailReader\EmailReader\EmailReader\obj\Debug\EmailReader.csprojResolveAssemblyReference.cache

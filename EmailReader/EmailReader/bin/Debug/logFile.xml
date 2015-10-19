@@ -1,0 +1,38 @@
+to: all@SoftTech.com
+from: Judy@SoftTech.com
+subject: Free food available in the lobby
+context: subject: Free food available in the lobby
+to: all@SoftTech.com
+from: Judy@SoftTech.com
+subject: Free food available in the lobby
+context: body: lunch in the lobby
+to: DevTeam@SoftTech.com
+from: Bruce.Springsteen@SoftTech.com
+subject: New Project
+context: You are free to come in whenever you like. However, the kickoff meeting will be right before lunch at 11:30.
+to: Randy.Savage@SoftTech.com
+from: Bruce.Springsteen@SoftTech.com
+subject: Promotion
+context: free
+
+
+to: all@SoftTech.com
+from: Judy@SoftTech.com
+subject: Free food available in the lobby
+context: subject: Free food available in the lobby
+
+to: all@SoftTech.com
+from: Judy@SoftTech.com
+subject: Free food available in the lobby
+context: body: lunch in the lobby
+
+to: DevTeam@SoftTech.com
+from: Bruce.Springsteen@SoftTech.com
+subject: New Project
+context: You are free to come in whenever you like. However, the kickoff meeting will be right before lunch at 11:30.
+
+to: Randy.Savage@SoftTech.com
+from: Bruce.Springsteen@SoftTech.com
+subject: Promotion
+context: free
+

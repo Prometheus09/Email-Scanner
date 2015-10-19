@@ -1,0 +1,3 @@
+C:\Users\sfuerbringer_be\Dropbox\EmailReader\EmailReader\EmailReader\bin\Debug\EmailReader.exe.config
+C:\Users\sfuerbringer_be\Dropbox\EmailReader\EmailReader\EmailReader\obj\Debug\EmailReader.exe
+C:\Users\sfuerbringer_be\Dropbox\EmailReader\EmailReader\EmailReader\obj\Debug\EmailReader.pdb
